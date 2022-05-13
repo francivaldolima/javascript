@@ -7,3 +7,5 @@
    3. Crie um arquivo chamado `scripts.js` na sua pasta `assets/js`
    4. Selecione os elementos: `h1`, `button`, `footer` e `body`
    5. Se os elementos possuírem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
+   
+   ![dark-mode-exercicio](https://user-images.githubusercontent.com/54116971/168338658-7093160c-70ec-4947-9499-2148f29dbe34.gif)
