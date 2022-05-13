@@ -10,5 +10,5 @@
   
      ## Demo
 
-![](C:\ws-web\javascript\assíncrono\api-cats.gif)
+![api-cats](https://user-images.githubusercontent.com/54116971/168339217-b158ad20-8ad0-460a-9151-523ec226561f.gif)
 
